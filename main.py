@@ -54,4 +54,4 @@ def send_email():
 
 
 if __name__ == "__main__":
-    get_data()
+    send_email()
